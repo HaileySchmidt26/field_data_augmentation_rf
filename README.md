@@ -25,6 +25,8 @@ All visual interpretation and field data were collected by the authors during **
 
 ---
 ## ✏️  Citation 
+If you use this work, please cite the paper:
+
 @article{schmidt2025,
   title={A Novel Approach to Field Data Augmentation with Remote Sensing and Machine Learning in Rangelands},
   author={Schmidt, Hailey and Osorio Leyton, Javier and Noa Yarasca, Efrain and Popescu, Sorin and Jones, Justinn J and Wied, Justin P. and Wu, Xinyuan},
