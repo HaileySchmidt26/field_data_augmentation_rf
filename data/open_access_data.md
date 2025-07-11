@@ -1,6 +1,7 @@
-** Open Access Data **
+## Open Access Data
 In addition to the training datasets we used in our different data treatments, we relied on additional sources to create our feature sets. Access to each of those datasets can be found below
 and are available for download from their respective data portals:
+
 ---
 ## 🛰️ Planet Imagery 
 Planet Labs PBC, 2024. Planet Application Program Interface: In Space for Life on Earth. Researchers and students can apply for access here: https://www.planet.com/industries/education-and-research/
