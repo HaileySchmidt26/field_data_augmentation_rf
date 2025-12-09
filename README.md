@@ -4,7 +4,7 @@
 
 This project investigates how different sources of training data influence machine learning model performance for rangeland vegetation classification, with a focus on monitoring woody plant encroachment.
 
-In our paper (currently under review), we compare visual interpretation and traditional field-based methods for building training datasets, and propose a hybrid approach that augments field data with neighbor pixel information. This method shows promise for improving model accuracy and reducing prediction uncertainty.
+In our paper, we compare visual interpretation and traditional field-based methods for building training datasets, and propose a hybrid approach that augments field data with neighbor pixel information. This method shows promise for improving model accuracy and reducing prediction uncertainty.
 
 ---
 ## 🌱 Highlights
@@ -30,9 +30,9 @@ If you use this work, please cite the paper:
 @article{schmidt2025,
   title={A Novel Approach to Field Data Augmentation with Remote Sensing and Machine Learning in Rangelands},
   author={Schmidt, Hailey and Osorio Leyton, Javier and Noa Yarasca, Efrain and Popescu, Sorin and Jones, Justinn J and Wied, Justin P. and Wu, Xinyuan},
-  journal={---TBA---},
+  journal={Ecological Informatics},
   year={2025},
-  doi={--TBA--}
+  doi={10.1016/j.ecoinf.2025.103353}
 }
 
 ---
