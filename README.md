@@ -34,7 +34,7 @@ If you use this work, please cite the paper:
   journal = {Ecological Informatics},
   year = {2025},
   doi = {10.1016/j.ecoinf.2025.103353}
-}'''
+}
 
 
 ---
